@@ -1,2 +1,1 @@
-# metadata
-Kings Vault Metadata
+# Kings Vault Metadata
