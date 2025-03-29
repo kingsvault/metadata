@@ -1,0 +1,12 @@
+{
+  "name": "Kings Vault Card #34",
+  "description": "Card Description.",
+  "image": "https://kingsvault.github.io/metadata/34.png",
+  "external_url": "https://kingsvault.io/",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    }
+  ]
+}

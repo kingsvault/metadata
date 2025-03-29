@@ -1,0 +1,12 @@
+{
+  "name": "Kings Vault Card #6",
+  "description": "Card Description.",
+  "image": "https://kingsvault.github.io/metadata/6.png",
+  "external_url": "https://kingsvault.io/",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
