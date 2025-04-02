@@ -2,10 +2,12 @@
 
 ## Traits
   - Rarity:
-    - 1-10 = Common
-    - 11-20 = Rare
-    - 21-30 = Legendary
-    - 31-40 = Mythic
+    - 0-9 = Common
+    - 10-19 = Rare
+    - 20-29 = Legendary
+    - 30-39 = Mythic
+    - 40 = Winnner (A Certificate)
+    - 41-43 = Winnner (A Car)
 
 
 ## OpenSea Collection Images
