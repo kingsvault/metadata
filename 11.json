@@ -1,6 +1,7 @@
 {
   "name": "Kings Vault Card #11",
   "description": "Card Description.",
+  "image": "https://kingsvault.github.io/metadata/11.gif",
   "animation_url": "https://kingsvault.github.io/metadata/11.mp4",
   "external_url": "https://kingsvault.io/",
   "attributes": [
