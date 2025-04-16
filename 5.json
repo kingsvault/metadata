@@ -1,12 +1,16 @@
 {
   "name": "Kings Vault Card #5",
-  "description": "Card Description.",
+  "description": "Kings Vault Cards",
   "image": "https://kingsvault.github.io/metadata/5.png",
   "external_url": "https://kingsvault.io/",
   "attributes": [
     {
       "trait_type": "Rarity",
       "value": "Rare"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Porsche 911 Turbo"
     }
   ]
 }

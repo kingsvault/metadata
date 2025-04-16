@@ -1,6 +1,6 @@
 {
   "name": "Kings Vault Card #11",
-  "description": "Card Description.",
+  "description": "Kings Vault Cards",
   "image": "https://kingsvault.github.io/metadata/11.gif",
   "animation_url": "https://kingsvault.github.io/metadata/11.mp4",
   "external_url": "https://kingsvault.io/",
@@ -8,6 +8,10 @@
     {
       "trait_type": "Rarity",
       "value": "Mythic"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Porsche 911 Turbo"
     }
   ]
 }

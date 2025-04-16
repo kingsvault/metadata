@@ -1,12 +1,16 @@
 {
   "name": "Kings Vault Card #3",
-  "description": "Card Description.",
+  "description": "Kings Vault Cards",
   "image": "https://kingsvault.github.io/metadata/3.png",
   "external_url": "https://kingsvault.io/",
   "attributes": [
     {
       "trait_type": "Rarity",
       "value": "Common"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Mercedes-Benz GLE 63 Brabus 800"
     }
   ]
 }

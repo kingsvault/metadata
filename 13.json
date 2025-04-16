@@ -1,12 +1,16 @@
 {
   "name": "Kings Vault Card #13",
-  "description": "Card Description.",
+  "description": "Kings Vault Cards",
   "image": "https://kingsvault.github.io/metadata/13.png",
   "external_url": "https://kingsvault.io/",
   "attributes": [
     {
       "trait_type": "Rarity",
       "value": "Winner"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Certificate"
     }
   ]
 }
