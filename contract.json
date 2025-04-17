@@ -1,5 +1,8 @@
 {
-  "name": "Kings Vault Cards",
-  "description": "Kings Vault Cards",
+  "name": "KINGS VAULT CARDS",
+  "description": "KINGS VAULT CARDS",
+  "image": "https://kingsvault.github.io/metadata/contract-image.png",
+  "featured_image": "https://kingsvault.github.io/metadata/contract-featured-image.png",
+  "banner_image": "https://kingsvault.github.io/metadata/contract-banner-image.png",
   "external_link": "https://kingsvault.io"
 }
